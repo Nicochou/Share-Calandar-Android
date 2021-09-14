@@ -1,0 +1,35 @@
+Destiné aux familles composées et recomposées, ayant comme cible privilégiée les mères de famille, Mon Agenda Partagé est un agenda communautaire synchronisé enrichi qui permet de gérer simplement la vie quotidienne des foyers et d’interagir avec ses proches et ses amis.
+
+Simple et convivial, Mon Agenda Partagé libère du temps et facilite l'organisation ainsi que la communication.
+
+Cette application se positionne comme le réseau social privé des foyers et des communautés.
+
+Mon Agenda Partagé est une application assertive et virale, agrégée et innovante.
+
+Cette solution repose sur un agenda fédéré, synchronisé et partagé, disponible en tout lieu et à tout moment.
+
+Nous proposons un ensemble de fonctionnalités développées pour simplifier le quotidien de la famille et ainsi mieux communiquer avec ses proches.
+
+Avec Mon Agenda Partagé, vous pouvez :
+
+Agréger vos calendriers locaux;
+Voir la partie ouverte des calendriers de votre famille et de vos amis;
+Organiser des événements et y inviter les personnes de votre entourage;
+Gérer l’agenda de la famille, avec tous les événements familiaux;
+Créer des agendas partagés avec d’autres cercles de contacts (l’agenda de mes amis coureurs, de mes collègues, etc.);
+Inviter vos contacts à télécharger l’application;
+Recevoir des notifications sur les événements de l’agenda partagé;
+Voir la météo des prochains jours afin de mieux planifier vos activités;
+Tout comme chaque membre de la communauté, gérer votre temps, vos envies et vos activités dans un espace privé et confidentiel.
+C’est une application gratuite, compatible IOS ou Android.
+
+Notre cible est constituée de familles CSP+, urbaines, multiéquipées, avec un focus important sur les « Digital Mums ».
+
+Cf. les images maquette_1 et maquette_2.
+
+Un calendrier communautaire enrichi
+L’agenda familial est construit sur la base des agendas existants de chaque membre du foyer : affichage et mise à jour au sein de Mon Agenda Partagé des agendas iCal et Google Calendar dans un premier temps, puis Yahoo Calendar et MS Exchange (Outlook).
+
+À tout moment, chaque utilisateur a accès aux calendriers consolidés de la famille, qu’il peut consulter et actualiser en fonction des filtres mis à sa disposition. Chaque utilisateur ne partage que les informations souhaitées, gardant seul le contrôle total de ses données.
+
+La lecture est facilitée par le croisement des données calendaires sélectionnées. Ce principe de fonctionnement permet de combiner à loisir exhaustivité et lisibilité.

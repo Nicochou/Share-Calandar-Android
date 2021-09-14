@@ -1,0 +1,9 @@
+Le pitch ci-dessous correspond à un extrait de l'executive summary d’une startup pour laquelle j’ai réalisé la partie Android.
+Ceci est un pitch décrivant les fonctionnalités pour un potentiel investisseur, et pas forcément de manière ordonnée pour un développeur !
+
+Une des grandes tâches sera donc, de bien comprendre les objectifs de l’application et de faire les bons compromis pour livrer un produit ayant la plus grande valeur marchande.
+
+Objectif
+Il est simple, dans le temps imparti, vous devez faire une application utilisable qui respecte au mieux ce qui est exposé dans le pitch.
+
+Il faudra pour cela étudier le pitch, le découper en user stories qu’il faudra prioriser en fonction de la valeur marchande et de la complexité technique.
